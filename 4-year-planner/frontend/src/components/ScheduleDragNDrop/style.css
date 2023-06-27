@@ -1,0 +1,45 @@
+.courseCard{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-right: 7px;
+}
+
+.quarterCardDrop{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-right: 7px;
+}
+
+.yearLaneTitleDiv{
+    display: flex;
+    justify-content: center;
+}
+
+.yearLaneTitle {
+}
+
+.yearLaneUnits{
+    position: absolute;
+    right: 10px;
+}
+
+.yearLaneGPA{
+    position: absolute;
+    right: 170px;
+}
+
+.GESelect{
+    display: flex;
+    justify-content: left;
+}
+.centerSelect{
+    display: flex;
+    justify-content: center;
+}
+
+.scienceElectives{
+    display: flex;
+    justify-content: center;
+}

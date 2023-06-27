@@ -1,0 +1,43 @@
+.column {
+    flex: 1;
+    padding: 3;
+    background-color: #d0d9e0;
+    margin: 2;
+    border-radius: 8;
+    border: 2px solid gray.500
+}
+
+.CourseCardDrop {
+    padding: 3;
+    background-color: white;
+    margin: 2;
+    border-radius: 8;
+    border: 2px solid gray.500;
+    box-shadow:0px 0px 5px 2px #2121213b;
+}
+
+.QuarterCardDrop {
+    flex: 3;
+    padding: 5;
+    flex-direction: column;
+    min-height: 10rem;
+    justify-content: space-around;
+}
+
+.QuarterCardDropper {
+    background-color: #d2dcfc;
+    border-radius: 8;
+    flex: 1;
+    padding: 2;
+    flex-direction: column;
+}
+
+.unitQuarterCardDrop {
+    font-weight: bold;
+    color: black;
+    padding-right: 15px;
+
+    
+}
+
+

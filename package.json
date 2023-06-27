@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-color": "^2.19.3",
+    "reactjs-popup": "^2.0.5",
+    "sinon-mongoose": "^2.3.0"
+  }
+}

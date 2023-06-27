@@ -1,0 +1,7 @@
+[
+    { "label":"Chemical Engineering", "value":"0"},
+    { "label":"Computer Engineering", "value":"1"},
+    { "label":"Computer Science", "value":"2"},
+    { "label":"Eletrical Engineering", "value":"3"},
+    { "label":"Mechanical Engineering", "value":"4"}
+]

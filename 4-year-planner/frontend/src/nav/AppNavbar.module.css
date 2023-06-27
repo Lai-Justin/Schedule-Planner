@@ -1,0 +1,12 @@
+.calanderImage {
+    width: 45px;
+    padding: 3;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+
+.navBar {
+    background-color: rgb(243, 189, 29);
+    font-family: sans-serif;
+    
+}

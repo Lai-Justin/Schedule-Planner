@@ -1,0 +1,3195 @@
+[
+    [
+        [
+            [
+                {
+                    "title": "CH E 5",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "1a17c432d064b938d08f9e36be6ac045",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CHEM 1A",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "68ddb8c1154b179523298c649511c4a1",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CHEM 1AL",
+                    "details": {
+                        "units": 2,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "89487ca4bec5ec77ee0d4baeba660be3",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 3A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "9325b63941de716fa85242ed56bb7573",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "WRIT 1E",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "0935e99f92e157e10107ec7fbfd1ff8c",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CHEM 1B",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "8eefd11d8dff85ad65395226818f8468",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CHEM 1BL",
+                    "details": {
+                        "units": 2,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "a7e9205e2de4933bf49ea1a4919ac4a9",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 3B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "0f3fc74b8756f2e160681d3eec482e4e",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 1",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "5b54b67d22f66472f76173304f007674",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "WRIT 2E",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "b59687711498a53d82ab88f7b05781ee",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CHEM 1C",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "1026df6ce6f6136a26b621ed25a5d8a0",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CHEM 1CL",
+                    "details": {
+                        "units": 2,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "f01886f9b3c393084fdc14b8e6c5fbfe",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ENGR 3",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "af5cf1278a44d63b11196a6df488a996",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 4A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "be825b7ba861a32a46c086269c3aa244",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 2",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "b1275812a648541f6459517a90315e12",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [
+                {
+                    "title": "CH E 10",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "712d608953513c70f933704b1dfaa263",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 3L",
+                    "details": {
+                        "units": 1,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "94d29393741c7a419c4dbf246a837f68",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 3",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "e7c52b7de900cfbd1634c62adaa41dcf",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 4B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "eb61f80c45e6df4da160405bbcb10b27",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CHEM 109A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "baa784e671be521967a0a8677efca7ce",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CH E 107",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "0af0f71937d8d275f2fe8010347874fd",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CH E 110A",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "fd25b7d55dc9bfa71d0fae3259c59a67",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CHEM 6AL",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "04b24d5865847a7f574c8d75ccbc425d",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CHEM 109B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "50df77c5f5c0d306f1d761ec4a922a5d",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 6A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "1d20e534b157b16bb6e14ab0604932ce",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CH E 110B",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "61c24156ee683ab9f6b3cf3cfd9ee948",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CH E 132A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "b4a4601d80b89a0837963a81706612c5",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CHEM 6BL",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "17031549c60fa9aae437f03e4eab5c7c",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 6B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "1fc2228a76ed11fc3bf479f5a0f1c34b",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "c91ad311932dbed9f9ffc80d45733008",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [
+                {
+                    "title": "CH E 120A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "7db58508a3fa2d09f24e8bcaa70ff8bf",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CH E 128",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "f2aa244a0d7f64bf550e2534d6403a48",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CH E 132B",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "6ea902166f871a4ab468483cda72da84",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "b1595aa92620a243bc568b53c412baa4",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CH E 120B",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "28495420c2c17be89538a16bd6b9616e",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CH E 132C",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "e3291844fa8095a18824439b0ebe623e",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CHEM 113B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "3a41c9152727ecfaf442630ecbd20844",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATRL 101",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "0868f76dc10f056b7a96957d13e5fe3a",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "3bab35ec7a1c5d8a20bab602b022bed7",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CH E 118",
+                    "details": {
+                        "units": 1,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "7871f20e19d4ef28e33797bc7a19a9e1",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CH E 120C",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "ee5ec2128869dac15bdcb4004eae0302",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CH E 140A",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "1331d21ada7335aa768ccdec7244f9a7",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CH E 180A",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "84b008fd1c8f265115a0ebe1af853744",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CHEM 113C",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "2d4b688c777608fadc36781787251a16",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "5c3f9c52f4eeb9a160d26929c3564b82",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [
+                {
+                    "title": "CH E 140B",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "b6269297bfae9b4675a413da7916ee1e",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CH E 152A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "48c7004459a1c6b7ac3a0f9be19796dd",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "bce935f94f4ef71a4242fee31915297e",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "761fc1a08137c1de619a795d162cbfab",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CH E 180B",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "b53be3b583be7db2f69b9af1eb8b4b32",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CH E 184A",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "0c7a460f882375c86627c4adfb53418f",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "ba5549ea5a08879b7c217bd88b256590",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "31b132625e522d05ad6fe3a17fd5cc5c",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CH E 184B",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "6fabd8f13ee7bf6e8e2628a68a829824",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "7a3e5601ecf3fafa722ff22acdcf37b1",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "aaf9519a3d29dcd2a19d71efba77a96f",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            []
+        ]
+    ],
+    [
+        [
+            [
+                {
+                    "title": "ECE 5",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "f300d368574410afba93ad0e0c5b8f85",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 3A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "b281e0635ec02a4f027481ee70411880",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "WRIT 1E",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "182f92fc0c1bbd478b6b0628bb1f0611",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CMPSC 8",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "499b8a7667eb0cff0e930aa2652ae82d",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CMPSC 16",
+                    "details": {
+                        "units": 4,
+                        "prereqs": [
+                            "MATH 3A",
+                            "CMPSC 8"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "c15ce8e02736f2fc13db1197c53acc39",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ECE 1A",
+                    "details": {
+                        "units": 1,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "901dbe147c1befce108a5bd2a117a10a",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 3B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "344952c03a91710c904c1caac6682adc",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 1",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "50af9f5c4794d1ce47848059a716b57c",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "WRIT 2E",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "057b9ecb22fa1ed9dfcaf42be8ff2e83",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CMPSC 24",
+                    "details": {
+                        "units": 4,
+                        "prereqs": [
+                            "CMPSC 16"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "3c446dc3735782be082344035c6858e0",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ECE 1B",
+                    "details": {
+                        "units": 1,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "ed23236490615e934f9bf8e5861e5ff6",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 4A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "b18153dabb33d15400d70b705c95e007",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 2",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "af206613c7787be5cf0666ca286136f1",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "WRIT 50E",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "b0a0d198affb97a7c03483ac4210ba6b",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [
+                {
+                    "title": "CMPSC 32",
+                    "details": {
+                        "units": 4,
+                        "prereqs": [
+                            "CMPSC 24"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "440cd366afb4b04a6628ee46b3eaf043",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ECE 10A",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "11e08b222c3a85344495c4386df1c9cc",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ECE 10AL",
+                    "details": {
+                        "units": 2,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "cc364eaeeadba0ef6415a565cae04ddc",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 4B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "2027bb732721f1767dff6cd69984f3b1",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 3",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "677521a1813bbedbafd3468924805603",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 3L",
+                    "details": {
+                        "units": 1,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "41d554ecdf3442d1a98858124b2a3012",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CMPSC 40",
+                    "details": {
+                        "units": 5,
+                        "prereqs": [
+                            "CMPSC 16"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "ead377cbd9811eb2756d4435e6281510",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ECE 10B",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "b5dcbe22c48d66c62b11296b4fa3ad9b",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ECE 10BL",
+                    "details": {
+                        "units": 2,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "6a9f56bf0d27edcdd8680c76d9952c7f",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ECE 15A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "6556599c8ecac1397b20d505d797cb6f",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 4",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "c5918ae46863bc855b35c9d2f6295a30",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 4L",
+                    "details": {
+                        "units": 1,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "fc976df88baebce32f091c69dce170a4",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "ECE 10C",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "b7fa872df7ff7cc6269b34d9f048de89",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ECE 10CL",
+                    "details": {
+                        "units": 2,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "624bd53ccc999c810524a59239966672",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ECE 152A",
+                    "details": {
+                        "units": 5,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "087bfac62fd854e2f066dd04b96e74d0",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 6A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "dac9e42fd3580236579f8d9008a5151c",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PSTAT 120A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "d21e210c65049a10483a51670653f8b8",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [
+                {
+                    "title": "ECE 154A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "80073357dc04fa86481f459c40659df2",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "1d8a33e731fba1f2f371615ef1d8e40c",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "f3139659f43aadc510a8a881fc9f468e",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "f4ec9834c21278390e427a6fce2dc921",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CMPSC 130A",
+                    "details": {
+                        "units": 4,
+                        "prereqs": [
+                            "CMPSC 32",
+                            "CMPSC 40",
+                            "PSTAT 120A"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "3b2467168d4021667792dc5fdc738f96",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "b857c19e73d01a10b9fcdacd725ebf20",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "defa9d9d7509416eae2f74864ad6f28a",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "60c5b2f8d80dff49a88d6c70b968f56d",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "78f2ca045773cf193d8350de89b61968",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "eb4a97354ee90f5c67cc44d2f6dd08be",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "be0982508e194127f5509467d24193d8",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "8f4ef5a867798ae6b0b73f7cc1dbbce5",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [
+                {
+                    "title": "ECE 189A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "d4ae02c8ad580033c6d11eb719d6c23b",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "ba9a4945ad1d149c9e5d65350be2f50b",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "1ca0e8fea70cabe5fa4cfe8cf1da4e86",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "0acbac57aae6a6c1bcb335b7f89da6a9",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "ECE 189B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "9a267ea0d6a3c7a394675f6ea464e5a0",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ENGR 101",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "f4990679cdef2123cd611aff3ffed511",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "35a3cdf811d7b5e958d7a9cb6580bbda",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "020c3b182bdd26e5bfe7b19abadbf80d",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "ECE 189C",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "de2f6d48731cbcb1814cba708441ce63",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "42b166efe2f3e2da4a77879e6937dfba",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "78ccfee78a7eb60e04c91c37ac9db994",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            []
+        ]
+    ],
+    [
+        [
+            [
+                {
+                    "title": "CMPSC 8",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "5c694b2be2af91e13632c4123ff65785",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 3A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "f9af7a04952e251f2b2f5c49fe5d288b",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "WRIT 1",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "6827d13de86109685bfb5ea02d2c0d1a",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "5f4652d7cd791744537efe3d6f9a43af",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CMPSC 16",
+                    "details": {
+                        "units": 4,
+                        "prereqs": [
+                            "MATH 3A",
+                            "CMPSC 8"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "606dd01d208573c0ed78f765d3379d3b",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 3B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "3273eeb5f0c1ee52aaf3f2231166798f",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 1",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "63b581bd695126764d6d27246fc8594c",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "WRIT 2",
+                    "details": {
+                        "units": 5,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "7c480937594ff377ca79bb9cb90aa763",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CMPSC 24",
+                    "details": {
+                        "units": 4,
+                        "prereqs": [
+                            "CMPSC 16"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "f77ecd9ea83d250c2866c8c677cdbee2",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 4A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "1424a01fce8cc8d40aeb074476fcedf6",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "EEMB 165",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "402af26ee53563b7bcef73f2e2016236",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "1a1cd90102c57e0b1d0579505ad2f476",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [
+                {
+                    "title": "CMPSC 32",
+                    "details": {
+                        "units": 4,
+                        "prereqs": [
+                            "CMPSC 24"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "821287eb5f6df50aeb6764a0c9fd44aa",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CMPSC 40",
+                    "details": {
+                        "units": 5,
+                        "prereqs": [
+                            "CMPSC 16"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "5ef54759fe653cab7179d98fbfa490ab",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 3",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "33b2c480be3365ecde0a325de1c2fc19",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 3L",
+                    "details": {
+                        "units": 1,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "69d8438e45b3e3ca1b3d98622003b403",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PSTAT 120A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "f4386843c37ade79e08b34337caa6b17",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CMPSC 64",
+                    "details": {
+                        "units": 4,
+                        "prereqs": [
+                            "CMPSC 16"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "b9d03ff8d54413be5397f6e0094cd3a3",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 4B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "edf9e043357f093e863e904d21246d1d",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "WRIT 50",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "dded165dd01ac5f4ffbe252ff1c05680",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CMPSC 130A",
+                    "details": {
+                        "units": 4,
+                        "prereqs": [
+                            "CMPSC 32",
+                            "CMPSC 40",
+                            "PSTAT 120A"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "f7baa7449e16c3e4f983a92862fd8a15",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CMPSC 138",
+                    "details": {
+                        "units": 4,
+                        "prereqs": [
+                            "CMPSC 40"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "0b7f033c5ac7eb1e0daaae012281a9d3",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 6A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "bb6a945c5d08486c5235f8075cf6d9d1",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "8cf69207e6f1da1111145413e0dd2c87",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "6f90a0db3f4c68d86c4f4975853ee29e",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [
+                {
+                    "title": "CMPSC 148",
+                    "details": {
+                        "units": 4,
+                        "prereqs": [
+                            "CMPSC 32"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "b64580aa05bae7586f989ac292a4e080",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CMPSC 130B",
+                    "details": {
+                        "units": 4,
+                        "prereqs": [
+                            "CMPSC 130A"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "198c4fcdfe5b3f76aeff4d56bfa21c26",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CMPSC 111",
+                    "details": {
+                        "units": 4,
+                        "prereqs": [
+                            "MATH 4B",
+                            "MATH 6A",
+                            "CMPSC 24"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "19538fc0f60a6681ac5575acf559b12d",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "d36bd932e6e1fec39f38173477e7d64e",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "61e6ae0221c6b481b548dc6756a7dead",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "ef9a556e4cfd3295707cde0f3c059eed",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "eedd0213410bad69cd4f573b6ba719d2",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "76b86fcc1d02fdcfb4c1809f08ebe950",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CMPSC 154",
+                    "details": {
+                        "units": 4,
+                        "prereqs": [
+                            "CMPSC 32",
+                            "CMPSC 64"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "e8b4e42d71e27661ce42b48e68c7c26b",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PSTAT 120B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "6c9b75bc57d32c5ff64ca0521e5cd71b",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "6ceb024a6740a6f749af360fe11870b4",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "ecd0263efb68bdc88289a1008fb132d3",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [
+                {
+                    "title": "CMPSC 160",
+                    "details": {
+                        "units": 4,
+                        "prereqs": [
+                            "CMPSC 64",
+                            "CMPSC 130A",
+                            "CMPSC 138"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "4cd9787109f8c57b05a5034a507ffe6e",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "bccee252692ddea1474bfcb467f6fced",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "c6030d10d2ee5759cbd22e8bf3f469d8",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CMPSC 170",
+                    "details": {
+                        "units": 4,
+                        "prereqs": [
+                            "CMPSC 130A",
+                            "CMPSC 154"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "69080f1a2849dbd285fb93139aaef352",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "6761a5e258418b37f5cd990249d28a8d",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ENGR 101",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "a9df9fb3896441b89310e3af7347458d",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "cabe46aae21b52b1d1fbdabca20f4873",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "91ef67cd84546f091a40340fbe3f16a6",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "c010a3b7fb32b1d29c1ad084e23d2bd1",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "ca1dddb5334cc0072ca1996c546d081b",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            []
+        ]
+    ],
+    [
+        [
+            [
+                {
+                    "title": "ECE 3",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "e955eb88351ad03712966e1ff3ea3d27",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ECE 5",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "8885bf22516ee4c902fd4cbb92ef5198",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 3A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "f4729848b5c14a5cf9f481b86ef7fd93",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "WRIT 1E",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "4102e5a370073edff074ee084ab658ab",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CMPSC 8",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "62e116f6b553cfe40c60eef9b4857ab9",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CMPSC 16",
+                    "details": {
+                        "units": 4,
+                        "prereqs": [
+                            "MATH 3A",
+                            "CMPSC 8"
+                        ],
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "a6f87c216f0ca736c76963ff8b3afdb6",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 3B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "1cbb02b89098228b5184f82d50fae790",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 1",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "be91b06754889667f5ff58ea1c1902ff",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "WRIT 2E",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "3485a240385a427882e90c5dbcad01bf",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CHEM 1A",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "790aea25e63056370bc0981cf9e1234d",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CHEM 1AL",
+                    "details": {
+                        "units": 2,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "d13267520061ec140934bcd28178e11a",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 4A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "f9bde26059a872a55f8290069e919bfa",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 2",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "4d729461f1e4e52961b90692b453a9d8",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "WRIT 50E",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "6036bc3ebc617e3946ae1e0aa773ccfc",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [
+                {
+                    "title": "ECE 10A",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "6f24da33ca8a0194f81d4835be1eff91",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ECE 10AL",
+                    "details": {
+                        "units": 2,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "3b90f0b722dd1639fb8e91d063641367",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 4B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "15fe0c5bac3e7367ee0cab68cf299edb",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 3",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "ca460d672260ab6fff346bd90cc7764e",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 3L",
+                    "details": {
+                        "units": 1,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "358154e957aced8d5db9ab2206e0a75c",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "6a7c0283f0d6619e868c2f6a983c2574",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "ECE 10B",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "7370ab91b88af88f3bbdaa4c0b998a95",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ECE 10BL",
+                    "details": {
+                        "units": 2,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "1c3842a3f08ed058908f2a8754a57766",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ECE 130A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "1a60f3d7b760fb9304484d5496ea4528",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 6A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "02c2febd18574bb0c0b54deb738ba819",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 4",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "19b67c78b098797234b3c5b1d75fd7d7",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 4L",
+                    "details": {
+                        "units": 1,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "650f77de17bc12aa18eef0e543b4f75d",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "ECE 10C",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "15e7b6ab1b32c0685dd881e0414ba5de",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ECE 10CL",
+                    "details": {
+                        "units": 2,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "009299d62586618ab879bd65f223e165",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ECE 139",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "6b5ca1e28e889280b8bf64c0a9bb2263",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 6B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "cc0deaba9bca881d7960b24200bb30e3",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ECE 130B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "5f87b3764a4bc4d492cd9a1039492841",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [
+                {
+                    "title": "ECE 15A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "96cc8d7772a64cea7e68492610d9c2e0",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ECE 134",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "3934d2425e65dd026c3d77e848c356ce",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "a1a49dc25756fce2147e6d0a16a6ab00",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "f4eb1503b2c27cdf8e5ff6915b6b8232",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "ECE 152A",
+                    "details": {
+                        "units": 5,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "1981a7b1f7493adab897d262f425658a",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "e04be264682ce9e52dfaf12233928902",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "baaf0b883f8cfd06062ee9eea06db3d1",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "a0e5f8426377651d66e491cff1f1ef54",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "ECE 153A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "dffe2aa541d7ec3fd2601098a3d84f6b",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "22ab89d9f5dfbaaeeb077b65b6d08247",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "7125d0b6bf15c9994d3811f90577b11a",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "32e0e3631f0e129a912e2048c12aef10",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [
+                {
+                    "title": "ECE 188A",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "7f700bd9646858e1e4e4b1bb4e7758f8",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "eb8e052f38b038b4c9ec2c054aebc770",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "cbed998c4db0867a29142822d3c8522f",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ECE 153B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "e0176ccf8729dd124f8db1b217c6ee84",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "ECE 188B",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "d0bbfd0b49bc6ea31dab3b6b0e9b159e",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "906682ef130c1946221bd099fd2abf54",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ENGR 101",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "d9ae56104f1e030770e573dcde3c6751",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "742661f155edcde35842c6b4ee70d72c",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "ECE 188C",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "4f245ddfe9342169ab042a37bb5970d6",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "85d014428f3d753ef875b206f082fd34",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            []
+        ]
+    ],
+    [
+        [
+            [
+                {
+                    "title": "CHEM 1A",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "6bb5a0a624263a8c4e08360b89465b43",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CHEM 1AL",
+                    "details": {
+                        "units": 2,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "9f979de225c5d74ebafe69bd2ee66046",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 3A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "9ac204712ddbb1d822df2ca2f929327c",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ME 12S",
+                    "details": {
+                        "units": 1,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "87102bdec28994f1f88ed8a939d891c0",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "WRIT 1E",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "fcccc3c957a0cf7678a5907cf90b41be",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "CHEM 1B",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "05090ab17196067fee0c6a7ebdde8955",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "CHEM 1BL",
+                    "details": {
+                        "units": 2,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "0de5323a1c67bc79bd4656d9939fd46f",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "MATH 3B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "216e212630d1e082f047e672cd26693d",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 1",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "a4b3f2f261f7b44364652d7c3274df59",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "WRIT 2E",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "c1fada905a3789bc880f704da1bef274",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "MATH 4A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "75d6233cfc44767af09d937727e15913",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ME 10",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "c34dfaebdb5e44a822ca531a5cb4fe57",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ENGR 3",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "1f5f34ed5854585bbb844fca464eafe8",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 2",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "3eba648de83ce078a729bde23d476f4d",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "WRIT 50E",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "a860c477ce9f5f8224e9f25d984bb377",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [
+                {
+                    "title": "MATH 4B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "22b3e11f2b6348055c71c647d259e419",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ME 14",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "d4df51943f27931893d2cfd99d56f11c",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ME 17",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "155ae533760d4a8d75b3cb0b64e3699e",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 3",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "0ecdb7f5d09b9542552b5e7a34be4041",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 3L",
+                    "details": {
+                        "units": 1,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "aee70f39fd9b755b072f88b2aa41108f",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "MATH 6A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "ef294a6564e8cb2d01584dda8c246b6d",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ME 15",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "c6f02788b062baea6943498bb8de3692",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ME 6",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "ef6f0260911bb2054613d4d999f02062",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 4",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "b401b26476d47808d132db274d940376",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "PHYS 4L",
+                    "details": {
+                        "units": 1,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "03bfe49528aff441375e3f95ebf1efc5",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "MATH 6B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "df0402c8eb3dd7d44eda92b44cd8a288",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ME 16",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "b0a7f29fb448805c14956ed046d68b79",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "7dd14b69490d9c1f904c577798eb40d9",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [
+                {
+                    "title": "ME 107",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "744bc44011b4bcb0c420212b3fffdfd4",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ME 151A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "32206ddef9ee3adc62c99ad4bc62a68a",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ME 152A",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "64b7b4894ae9f5115e843abce96af19d",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "MATRL 101",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "c0624947afabefa7a25336a7833d7efb",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ME 108",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "d7209d6af02fcbdd5842e18ccaa78bf4",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ME 151B",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "77f8d0b843d40551e2c0b0dbc69231cf",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "967545116d1fc074836c10206c519745",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "ME 104",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "0333d3f1ce05718defc22ad3204e2593",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ME 153",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "a9a1fdad33725f15ebd921c2b4410cca",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "fb906ca7369faee9e310a1a0dc37d12e",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "3807fb7735d4a350266b7302eb17e27f",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [
+                {
+                    "title": "ME 154",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "4037cae58cbdd5c54ba7be1aa72e5480",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ME 105",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "d4c6c566440eaa122d8ffa0e82dc5550",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ME 156A",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "616994f3dba80b51829604ecbfb84a2b",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ME 189A",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "fa4a658d518226cca59a6b1d9e902141",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "e320dd1ab0113d257984f4736369a47c",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "ME 156B",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "e61963c00b410988b70454cf0c6e6355",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "ME 189B",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "d5101305b8fae1c9043b00c8d9a50639",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "c1eddbe852d7a13d2789a8bee4a6a3c0",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "0d73fecc945a9d7a0e1e095202cba9f4",
+                    "color": "#ffffff"
+                }
+            ],
+            [
+                {
+                    "title": "ME 189C",
+                    "details": {
+                        "units": 3,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "c8901cc052ec80d1e516647384d522d9",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "Major Elective",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "80e52b868cb5bd00cd4268cf4793fb9c",
+                    "color": "#ffffff"
+                },
+                {
+                    "title": "G.E.",
+                    "details": {
+                        "units": 4,
+                        "prereqsNotMet": false
+                    },
+                    "grade": "NA",
+                    "notes": "",
+                    "id": "6d30d6036c91e842f8faec33c24eea01",
+                    "color": "#ffffff"
+                }
+            ],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            []
+        ]
+    ],
+    [
+        [
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            []
+        ]
+    ]
+]
