@@ -10,7 +10,7 @@ This web application was built using MongoDB, Express.js, React.js, and Node.js,
 The frontend uses the React bootstrap to create the user interface and to manage different user pages
 
 ### Back End
-For the back end, this web application uses MongoDB as the main database to store users' profiles and data about class requirements
+For the backend, this web application uses MongoDB as the main database to store users' profiles and data about class requirements
 It also utilizes Node.js and Express.js to connect the frontend to the backend to make queries to the database
 
 ## User Roles
